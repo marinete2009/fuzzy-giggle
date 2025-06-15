@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-15 03:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-06-15 03:13:32 +0000"
@@ -268,6 +274,12 @@
       "has_iron_ingot": "2025-06-15 02:57:26 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-06-15 03:42:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
@@ -1072,15 +1084,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-06-15 02:35:26 +0000",
       "minecraft:savanna_plateau": "2025-06-15 03:39:23 +0000",
       "minecraft:beach": "2025-06-15 02:30:04 +0000",
       "minecraft:mushroom_fields": "2025-06-15 02:39:26 +0000",
       "minecraft:forest": "2025-06-15 02:25:10 +0000",
-      "minecraft:ocean": "2025-06-15 02:32:08 +0000",
       "minecraft:deep_ocean": "2025-06-15 02:38:50 +0000",
       "minecraft:river": "2025-06-15 02:34:55 +0000",
       "minecraft:lukewarm_ocean": "2025-06-15 02:50:42 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-15 02:35:26 +0000",
+      "minecraft:ocean": "2025-06-15 02:32:08 +0000",
+      "minecraft:jungle": "2025-06-15 03:41:28 +0000",
       "minecraft:savanna": "2025-06-15 02:51:38 +0000",
       "minecraft:plains": "2025-06-15 03:37:34 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-15 02:50:05 +0000"
@@ -1126,6 +1139,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-06-15 03:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-15 03:41:53 +0000"
     },
     "done": true
   },
@@ -1214,6 +1233,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-15 02:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-15 03:41:53 +0000"
     },
     "done": true
   },
@@ -1340,6 +1365,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-15 03:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-15 03:41:53 +0000"
     },
     "done": true
   },
