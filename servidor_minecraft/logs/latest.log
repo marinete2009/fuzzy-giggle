@@ -179,3 +179,20 @@
 [03:03:51] [Async Chat Thread - #22/INFO]: [Not Secure] <Luisit00> jatea
 [03:03:56] [Async Chat Thread - #22/INFO]: [Not Secure] <TopkWomen_xs29> wait
 [03:04:19] [Server thread/INFO]: TopkWomen_xs29 has made the advancement [Sweet Dreams]
+[03:06:29] [Async Chat Thread - #24/INFO]: [Not Secure] <TopkWomen_xs29> oe como te digo
+[03:06:31] [Server thread/INFO]: TopkWomen_xs29 has made the advancement [Eye Spy]
+[03:06:50] [Async Chat Thread - #24/INFO]: [Not Secure] <Luisit00> xdd
+[03:07:12] [Server thread/INFO]: TopkWomen_xs29 has made the advancement [Suit Up]
+[03:07:24] [Server thread/INFO]: Luisit00 has made the advancement [Not Today, Thank You]
+[03:08:11] [Async Chat Thread - #26/INFO]: [Not Secure] <TopkWomen_xs29> 1633, -44
+[03:08:21] [Async Chat Thread - #26/INFO]: [Not Secure] <TopkWomen_xs29> -7 en profundidad
+[03:08:32] [Server thread/INFO]: TopkWomen_xs29 has made the advancement [Diamonds!]
+[03:11:29] [Async Chat Thread - #28/INFO]: [Not Secure] <TopkWomen_xs29> añado plugins para tepearnos
+[03:13:40] [Server thread/INFO]: Incorrect argument for command
+gamerule keepinventory true<--[HERE]
+[03:14:07] [Server thread/INFO]: Incorrect argument for command
+gamerule keepInventorygamerule true<--[HERE]
+[03:14:19] [Server thread/INFO]: Made TopkWomen_xs29 a server operator
+[03:14:22] [Server thread/INFO]: Luisit00 has made the advancement [Diamonds!]
+[03:14:27] [Server thread/INFO]: TopkWomen_xs29 issued server command: /gamerule keepInventory true
+[03:14:27] [Server thread/INFO]: [TopkWomen_xs29: Gamerule keepInventory is now set to: true]
